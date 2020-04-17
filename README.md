@@ -1,4 +1,4 @@
-# devmobile_app
+# Appli d'absences Flutter
 
 A new Flutter application.
 
